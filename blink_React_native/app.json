@@ -1,0 +1,28 @@
+{
+"expo": {
+  "name": "blink",
+  "slug": "blink",
+  "icon": "./assets/icon.png",
+  "version": "1.0.0",
+  "splash": {
+    "image": "./assets/splash.png",
+    "resizeMode": "contain",
+    "backgroundColor": "#666666"
+  },
+   "ios": {
+     "bundleIdentifier": "com.k1r4company.blink",
+     "buildNumber": "1.0.0"
+   },
+   "android": {
+     "package": "com.k1r4company.blink",
+     "versionCode": 1,
+     "adaptiveIcon": {
+      "foregroundImage": "./assets/adaptive-icon.png",
+      "backgroundColor": "#666666"
+    }
+  },
+  "web": {
+    "favicon": "./assets/favicon.png"
+    }
+  }
+}
