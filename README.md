@@ -25,5 +25,5 @@
 
 - Com a conexão Aplicativo MQTT e ESP8266 MQTT tudo esta funcionando
 
-- Seja feliz, Video no YOUTUBE falando sobre o projeto [Video]()
+- Seja feliz, Video no YOUTUBE falando sobre o projeto [Video](https://www.youtube.com/watch?v=fbDa1xnos4M)
 
