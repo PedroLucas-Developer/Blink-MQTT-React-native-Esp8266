@@ -1,5 +1,5 @@
 # Blink-MQTT-React-native-Esp8266
- Repositorio do Projeto de Blink usando MQTT, Nele estao o App react native e o codigo usando no ESP8266.
+ Repositorio do Projeto de Blink usando MQTT, Nele estao o Aplicativo React Native e o Codigo usando no ESP8266.
 
 # Como Fazer Funcionar
 - Clone o projeto.
